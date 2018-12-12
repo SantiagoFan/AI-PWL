@@ -4,7 +4,7 @@ A professional words list of machine learning &amp; deep learning
 
 
 ## Letter A
-Full Name |  Acronym  | Desciption  
+Acronym |  Full Name  | Desciption  
 ---|---|---  
 -|Accumulated error backpropagation	|累积误差逆传播  
 -|Activation Function  | 激活函数  
@@ -21,19 +21,22 @@ Full Name |  Acronym  | Desciption
 -|Area Under ROC Curve／AUC	Roc  |  曲线下面积
 -|Artificial General Intelligence/AGI	  | 通用人工智能
 -|Artificial Intelligence/AI	  | 人工智能
-Association analysis  | 	关联分析
-Attention mechanism	  | 注意力机制
-Attribute conditional independence assumption	  | 属性条件独立性假设
-Attribute space  | 	属性空间
-Attribute value  | 	属性值
-Autoencoder	  | 自编码器
-Automatic speech recognition	  | 自动语音识别
-Automatic summarization	  | 自动摘要
-Average gradient	  | 平均梯度
-Average-Pooling  | 	平均池化
-Letter B
+-|Association analysis  | 	关联分析
+-|Attention mechanism	  | 注意力机制
+-|Attribute conditional independence assumption	  | 属性条件独立性假设
+-|Attribute space  | 	属性空间
+-|Attribute value  | 	属性值
+-|Autoencoder	  | 自编码器
+-|Automatic speech recognition	  | 自动语音识别
+-|Automatic summarization	  | 自动摘要
+-|Average gradient	  | 平均梯度
+-|Average-Pooling  | 	平均池化
 
-Backpropagation Through Time	  | 通过时间的反向传播
+
+## Letter B
+Acronym |  Full Name  | Desciption 
+---|---|---  
+-|Backpropagation Through Time	  | 通过时间的反向传播
 Backpropagation/BP	  | 反向传播
 Base learner  | 	基学习器
 Base learning algorithm	  | 基学习算法
