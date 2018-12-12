@@ -200,49 +200,49 @@ Functional neuron	|-|功能神经元
 ## Letter G
  Words  | Acronym  | Desciption  
 ---|---|---  
-Gain ratio	增益率
-Game theory	博弈论
-Gaussian kernel function	高斯核函数
-Gaussian Mixture Model	高斯混合模型
-General Problem Solving	通用问题求解
-Generalization	泛化
-Generalization error	泛化误差
-Generalization error bound	泛化误差上界
-Generalized Lagrange function	广义拉格朗日函数
-Generalized linear model	广义线性模型
-Generalized Rayleigh quotient	广义瑞利商
-Generative Adversarial Networks/GAN	生成对抗网络
-Generative Model	生成模型
-Generator	生成器
-Genetic Algorithm/GA	遗传算法
-Gibbs sampling	吉布斯采样
-Gini index	基尼指数
-Global minimum	全局最小
-Global Optimization	全局优化
-Gradient boosting	梯度提升
-Gradient Descent	梯度下降
-Graph theory	图论
-Ground-truth	真相／真实
+Gain ratio|-|	增益率
+Game theory	|-|博弈论
+Gaussian kernel function|-|	高斯核函数
+Gaussian Mixture Model|-|	高斯混合模型
+General Problem Solving	|-|通用问题求解
+Generalization|-|	泛化
+Generalization error	|-|泛化误差
+Generalization error bound	|-|泛化误差上界
+Generalized Lagrange function	|-|广义拉格朗日函数
+Generalized linear model	|-|广义线性模型
+Generalized Rayleigh quotient	|-|广义瑞利商
+Generative Adversarial Networks/GAN	|-|生成对抗网络
+Generative Model	|-|生成模型
+Generator	|-|生成器
+Genetic Algorithm/GA	|-|遗传算法
+Gibbs sampling|-|	吉布斯采样
+Gini index	|-|基尼指数
+Global minimum	|-|全局最小
+Global Optimization	|-|全局优化
+Gradient boosting|-|	梯度提升
+Gradient Descent|-|	梯度下降
+Graph theory	|-|图论
+Ground-truth	|-|真相／真实
 
 ## Letter H
  Words  | Acronym  | Desciption  
 ---|---|---  
-Hard margin	硬间隔
-Hard voting	硬投票
-Harmonic mean	调和平均
-Hesse matrix	海塞矩阵
-Hidden dynamic model	隐动态模型
-Hidden layer	隐藏层
-Hidden Markov Model/HMM	隐马尔可夫模型
-Hierarchical clustering	层次聚类
-Hilbert space	希尔伯特空间
-Hinge loss function	合页损失函数
-Hold-out	留出法
-Homogeneous	同质
-Hybrid computing	混合计算
-Hyperparameter	超参数
-Hypothesis	假设
-Hypothesis test	假设验证
+Hard margin	|-|硬间隔
+Hard voting	|-|硬投票
+Harmonic mean|-|	调和平均
+Hesse matrix	|-|海塞矩阵
+Hidden dynamic model|-|	隐动态模型
+Hidden layer	|-|隐藏层
+Hidden Markov Model/HMM	|-|隐马尔可夫模型
+Hierarchical clustering	|-|层次聚类
+Hilbert space	|-|希尔伯特空间
+Hinge loss function|-|	合页损失函数
+Hold-out	|-|留出法
+Homogeneous	|-|同质
+Hybrid computing|-|	混合计算
+Hyperparameter|-|	超参数
+Hypothesis	|-|假设
+Hypothesis test	|-|假设验证
 
 ## Letter I
  Words  | Acronym  | Desciption  
@@ -285,7 +285,7 @@ Knowledge Representation	 |-| 知识表征
 ## Letter L
  Words  | Acronym  | Desciption  
 ---|---|---  
-Label space	标记空间
+Label space	|-|标记空间
 Lagrange duality	 |-| 拉格朗日对偶性
 Lagrange multiplier |-| 	拉格朗日乘子
 Laplace smoothing |-| 	拉普拉斯平滑
@@ -359,7 +359,7 @@ Mutual information	 |-| 互信息
 ## Letter N
  Words  | Acronym  | Desciption  
 ---|---|---  
-Naive bayes	朴素贝叶斯
+Naive bayes	|-|朴素贝叶斯
 Naive Bayes Classifier |-| 	朴素贝叶斯分类器
 Named entity recognition |-| 	命名实体识别
 Nash equilibrium |-| 纳什均衡
@@ -442,13 +442,13 @@ Pseudo-label |-| 	伪标记
 ## Letter Q
  Words  | Acronym  | Desciption  
 ---|---|---  
-
 Quantized Neural Network |-| 	量子化神经网络  
 Quantum computer |-| 	量子计算机  
 Quantum Computing |-| 	量子计算  
 Quasi Newton method	 |-| 拟牛顿法  
-Letter R
-
+## Letter R
+ Words  | Acronym  | Desciption  
+---|---|---  
 Radial Basis Function／RBF |-| 	径向基函数  
 Random Forest Algorithm	 |-| 随机森林算法  
 Random walk	 |-| 随机漫步  
@@ -457,7 +457,7 @@ Receiver Operating Characteristic/ROC |-| 	受试者工作特征
 Rectified Linear Unit/ReLU |-| 	线性修正单元
 Recurrent Neural Network |-| 	循环神经网络
 Recursive neural network |-| 递归神经网络
-Reference model	参考模型
+Reference model	|-|参考模型
 Regression |-| 	回归
 Regularization	 |-| 正则化
 Reinforcement learning/RL	 |-| 强化学习
@@ -473,7 +473,7 @@ Restricted Isometry Property/RIP |-| 	限定等距性
 Re-weighting	 |-| 重赋权法
 Robustness |-| 	稳健性/鲁棒性
 Root node	 |-| 根结点
-Rule Engine	规则引擎
+Rule Engine	|-|规则引擎
 Rule learning	 |-| 规则学习
 
 ## Letter S
