@@ -4,33 +4,33 @@ A professional words list of machine learning &amp; deep learning
 
 
 ## Letter A
-Acronym |  Full Name  | Desciption  
+ Words  | Acronym  | Desciption  
 ---|---|---  
--|Accumulated error backpropagation	|累积误差逆传播  
--|Activation Function  | 激活函数  
--|Adaptive Resonance Theory/ART  | 自适应谐振理论  
--|Addictive model  | 加性学习  
--|Adversarial Networks  | 对抗网络  
--|Affine Layer  | 仿射层  
--|Affinity matrix  | 亲和矩阵  
--|Agent  | 代理 / 智能体  
--|Algorithm  | 算法  
--|Alpha-beta pruning  | α-β剪枝  
--|Anomaly detection  | 异常检测  
--|Approximation  | 近似
--|Area Under ROC Curve／AUC	Roc  |  曲线下面积
--|Artificial General Intelligence/AGI	  | 通用人工智能
--|Artificial Intelligence/AI	  | 人工智能
--|Association analysis  | 	关联分析
--|Attention mechanism	  | 注意力机制
--|Attribute conditional independence assumption	  | 属性条件独立性假设
--|Attribute space  | 	属性空间
--|Attribute value  | 	属性值
--|Autoencoder	  | 自编码器
--|Automatic speech recognition	  | 自动语音识别
--|Automatic summarization	  | 自动摘要
--|Average gradient	  | 平均梯度
--|Average-Pooling  | 	平均池化
+Accumulated error backpropagation	|-| 累积误差逆传播  
+Activation Function	|-| 激活函数  
+Adaptive Resonance Theory/ART	|-| 自适应谐振理论  
+Addictive model	|-| 加性学习  
+Adversarial Networks	|-| 对抗网络  
+Affine Layer	|-| 仿射层  
+Affinity matrix	|-| 亲和矩阵  
+Agent	|-| 代理 / 智能体  
+Algorithm 	|-| 算法  
+Alpha-beta pruning 	|-|  α-β剪枝  
+Anomaly detection	|-| 异常检测  
+Approximation	|-| 近似
+Area Under ROC Curve／AUC	Roc	|-| 曲线下面积
+Artificial General Intelligence/AGI	|-| 通用人工智能
+Artificial Intelligence/AI	|-| 人工智能
+Association analysis	|-| 关联分析
+Attention mechanism	|-| 注意力机制
+Attribute conditional independence assumption	|-| 属性条件独立性假设
+Attribute space	|-| 属性空间
+Attribute value	|-| 属性值
+Autoencoder	|-| 自编码器
+Automatic speech recognition	|-| 自动语音识别
+Automatic summarization	|-| 自动摘要
+Average gradient	|-| 平均梯度
+Average-Pooling	|-| 平均池化
 
 
 ## Letter B
