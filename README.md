@@ -8,7 +8,7 @@ A professional words list of machine learning &amp; deep learning
 ---|---|---  
 Accumulated error backpropagation	|-| 累积误差逆传播  
 Activation Function	|-| 激活函数  
-Adaptive Resonance Theory/ART	|-| 自适应谐振理论  
+Adaptive Resonance Theory|ART| 自适应谐振理论  
 Addictive model	|-| 加性学习  
 Adversarial Networks	|-| 对抗网络  
 Affine Layer	|-| 仿射层  
@@ -19,7 +19,7 @@ Alpha-beta pruning 	|-|  α-β剪枝
 Anomaly detection	|-| 异常检测  
 Approximation	|-| 近似
 Area Under ROC Curve／AUC	Roc	|-| 曲线下面积
-Artificial General Intelligence/AGI	|-| 通用人工智能
+Artificial General Intelligence|AGI| 通用人工智能
 Artificial Intelligence	|AI| 人工智能
 Association analysis	|-| 关联分析
 Attention mechanism	|-| 注意力机制
@@ -37,10 +37,10 @@ Average-Pooling	|-| 平均池化
  Words  | Acronym  | Desciption  
 ---|---|---  
 Backpropagation Through Time	|-| 通过时间的反向传播
-Backpropagation/BP	|-| 反向传播
+Backpropagation|BP| 反向传播算法
 Base learner 	|-| 基学习器
 Base learning algorithm	|-| 基学习算法
-Batch Normalization/BN  | 		|-| 批量归一化
+Batch Normalization|BN| 批量归一化
 Bayes decision rule		|-| 贝叶斯判定准则
 Bayes Model Averaging |BMA 	|-| 贝叶斯模型平均
 Bayes optimal classifier	|-| 贝叶斯最优分类器
@@ -50,14 +50,14 @@ Between-class scatter matrix	|-| 类间散度矩阵
 Bias	|-| 偏置 / 偏差
 Bias-variance decomposition	|-| 偏差-方差分解
 Bias-Variance Dilemma	|-| 偏差 – 方差困境
-Bi-directional Long-Short Term Memory/Bi-LSTM  	|-|  	双向长短期记忆
+Bi-directional Long-Short Term Memory|Bi-LSTM  	|	双向长短期记忆
 Binary classification  	|-| 二分类
 Binomial test	  	|-| 二项检验
 Bi-partition  	|-| 	二分法
 Boltzmann machine	|-| 玻尔兹曼机
 Bootstrap sampling 	|-| 自助采样法／可重复采样／有放回采样
 Bootstrapping		|-| 自助法
-Break-Event Point／BEP	|-| 	平衡点
+Break-Event Point|BEP| 	平衡点
 
 ## Letter C
  Words  | Acronym  | Desciption  
@@ -66,7 +66,7 @@ Calibration		|-| 校准
 Cascade-Correlation		|-| 级联相关
 Categorical attribute	|-| 	离散属性
 Class-conditional probability		|-| 类条件概率
-Classification and regression tree/CART		|-| 分类与回归树
+Classification and regression tree|CART| 分类与回归树
 Classifier	|-| 	分类器
 Class-imbalance		|-| 类别不平衡
 Closed -form	|-| 	闭式
@@ -85,11 +85,11 @@ Computation Cost		|-| 计算成本
 Computational Linguistics	|-| 	计算语言学
 Computer vision	|-| 	计算机视觉
 Concept drift		|-| 概念漂移
-Concept Learning System /CLS	|-| 	概念学习系统
+Concept Learning System |CLS| 	概念学习系统
 Conditional entropy		|-| 条件熵
 Conditional mutual information	|-| 	条件互信息
-Conditional Probability Table／CPT	|-| 	条件概率表
-Conditional random field/CRF		|-| 条件随机场
+Conditional Probability Table|CPT| 	条件概率表
+Conditional random field|CRF|-| 条件随机场
 Conditional risk		|-| 条件风险
 Confidence		|-| 置信度
 Confusion matrix	|-| 	混淆矩阵
@@ -102,7 +102,7 @@ Convergence		|-| 收敛
 Conversational agent		|-| 会话智能体
 Convex quadratic programming		|-| 凸二次规划
 Convexity		|-| 凸性
-Convolutional neural network/CNN	|-| 	卷积神经网络
+Convolutional neural network|CNN| 	卷积神经网络
 Co-occurrence		|-| 同现
 Correlation coefficient		|-| 相关系数
 Cosine similarity		|-| 余弦相似度
@@ -116,6 +116,7 @@ Crowdsourcing		|-| 众包
 Curse of dimensionality		|-| 维数灾难
 Cut point	截断点
 Cutting plane algorithm		|-| 割平面法
+
 ## Letter D
  Words  | Acronym  | Desciption  
 ---|---|---  
@@ -126,9 +127,9 @@ Decision stump|-|	决策树桩
 Decision tree	|-|决策树／判定树
 Deduction	|-|演绎
 Deep Belief Network|-|	深度信念网络
-Deep Convolutional Generative Adversarial Network/DCGAN|-|	深度卷积生成对抗网络
+Deep Convolutional Generative Adversarial Network|DCGAN|	深度卷积生成对抗网络
 Deep learning	|-|深度学习
-Deep neural network/DNN	|-|深度神经网络
+Deep neural network|DNN|深度神经网络
 Deep Q-Learning|-|	深度 Q 学习
 Deep Q-Network	|-|深度 Q 网络
 Density estimation|-|	密度估计
@@ -175,7 +176,7 @@ Expectation-Maximization|-|	期望最大化
 Expected loss	|-|期望损失
 Exploding Gradient Problem|-|	梯度爆炸问题
 Exponential loss function	|-|指数损失函数
-Extreme Learning Machine/ELM	|-|超限学习机
+Extreme Learning Machine|ELM|超限学习机
 
 ## Letter F
  Words  | Acronym  | Desciption  
@@ -183,12 +184,12 @@ Extreme Learning Machine/ELM	|-|超限学习机
 Factorization	|-|因子分解
 False negative|-|	假负类
 False positive	|-|假正类
-False Positive Rate/FPR	|-|假正例率
+False Positive Rate|FPR|假正例率
 Feature engineering	|-|特征工程
 Feature selection	|-|特征选择
 Feature vector|-|	特征向量
 Featured Learning	|-|特征学习
-Feedforward Neural Networks/FNN	|-|前馈神经网络
+Feedforward Neural Networks|FNN|前馈神经网络
 Fine-tuning	|-|微调
 Flipping output|-|	翻转法
 Fluctuation	|-|震荡
@@ -211,10 +212,10 @@ Generalization error bound	|-|泛化误差上界
 Generalized Lagrange function	|-|广义拉格朗日函数
 Generalized linear model	|-|广义线性模型
 Generalized Rayleigh quotient	|-|广义瑞利商
-Generative Adversarial Networks/GAN	|-|生成对抗网络
+Generative Adversarial Networks|GAN|生成对抗网络
 Generative Model	|-|生成模型
 Generator	|-|生成器
-Genetic Algorithm/GA	|-|遗传算法
+Genetic Algorithm|GA|遗传算法
 Gibbs sampling|-|	吉布斯采样
 Gini index	|-|基尼指数
 Global minimum	|-|全局最小
@@ -233,7 +234,7 @@ Harmonic mean|-|	调和平均
 Hesse matrix	|-|海塞矩阵
 Hidden dynamic model|-|	隐动态模型
 Hidden layer	|-|隐藏层
-Hidden Markov Model/HMM	|-|隐马尔可夫模型
+Hidden Markov Model|HMM|隐马尔可夫模型
 Hierarchical clustering	|-|层次聚类
 Hilbert space	|-|希尔伯特空间
 Hinge loss function|-|	合页损失函数
@@ -248,22 +249,22 @@ Hypothesis test	|-|假设验证
  Words  | Acronym  | Desciption  
 ---|---|---  
 ICML	 |-| 国际机器学习会议
-Improved iterative scaling/IIS |-| 	改进的迭代尺度法
+Improved iterative scaling|IIS| 	改进的迭代尺度法
 Incremental learning	 |-| 增量学习
 Independent and identically distributed/i.i.d.	 |-| 独立同分布
-Independent Component Analysis/ICA |-| 	独立成分分析
+Independent Component Analysis|ICA| 	独立成分分析
 Indicator function |-| 	指示函数
 Individual learner |-| 	个体学习器
 Induction	 |-| 归纳
 Inductive bias	 |-| 归纳偏好
 Inductive learning	 |-| 归纳学习
-Inductive Logic Programming／ILP |-| 	归纳逻辑程序设计
+Inductive Logic Programming|ILP| 	归纳逻辑程序设计
 Information entropy	 |-| 信息熵
 Information gain	 |-| 信息增益
 Input layer |-| 	输入层
 Insensitive loss	 |-| 不敏感损失
 Inter-cluster similarity	 |-| 簇间相似度
-International Conference for Machine Learning/ICML	 |-| 国际机器学习大会
+International Conference for Machine Learning|ICML| 国际机器学习大会
 Intra-cluster similarity	 |-| 簇内相似度
 Intrinsic value |-| 	固有值
 Isometric Mapping/Isomap	 |-| 等度量映射
@@ -278,7 +279,7 @@ Kernel trick	 |-| 核技巧
 Kernelized Linear Discriminant Analysis／KLDA |-| 	核线性判别分析
 K-fold cross validation |-| 	k 折交叉验证／k 倍交叉验证
 K-Means Clustering |-| 	K – 均值聚类
-K-Nearest Neighbours Algorithm/KNN |-| 	K近邻算法
+K-Nearest Neighbours Algorithm|KNN| 	K近邻算法
 Knowledge base	 |-| 知识库
 Knowledge Representation	 |-| 知识表征
 
@@ -297,11 +298,11 @@ Lazy learning	 |-| 懒惰学习
 Learner	 |-| 学习器
 Learning by analogy |-| 	类比学习
 Learning rate	 |-| 学习率
-Learning Vector Quantization/LVQ	 |-| 学习向量量化
+Learning Vector Quantization|LVQ| 学习向量量化
 Least squares regression tree	 |-| 最小二乘回归树
-Leave-One-Out/LOO	 |-| 留一法
+Leave-One-Out|LOO| 留一法
 linear chain conditional random field |-| 	线性链条件随机场
-Linear Discriminant Analysis／LDA |-| 	线性判别分析
+Linear Discriminant Analysis|LDA| 	线性判别分析
 Linear model	 |-| 线性模型
 Linear Regression	 |-| 线性回归
 Link function	 |-| 联系函数
@@ -312,13 +313,13 @@ Log odds／logit	 |-| 对数几率
 Logistic Regression	 |-| Logistic 回归
 Log-likelihood	 |-| 对数似然
 Log-linear regression	 |-| 对数线性回归
-Long-Short Term Memory/LSTM	 |-| 长短期记忆
+Long-Short Term Memory|LSTM| 长短期记忆
 Loss function	 |-| 损失函数
 
 ## Letter M
  Words  | Acronym  | Desciption  
 ---|---|---  
-Machine translation/MT |-| 	机器翻译
+Machine translation|MT| 	机器翻译
 Macron-P	 |-| 宏查准率
 Macron-R	 |-| 宏查全率
 Majority voting	 |-| 绝对多数投票法
@@ -328,10 +329,10 @@ Margin theory	 |-| 间隔理论
 Marginal distribution	 |-| 边际分布
 Marginal independence	 |-| 边际独立性
 Marginalization	 |-| 边际化
-Markov Chain Monte Carlo/MCMC	 |-| 马尔可夫链蒙特卡罗方法
+Markov Chain Monte Carlo|MCMC| 马尔可夫链蒙特卡罗方法
 Markov Random Field	 |-| 马尔可夫随机场
 Maximal clique |-| 	最大团
-Maximum Likelihood Estimation/MLE	 |-| 极大似然估计／极大似然法
+Maximum Likelihood Estimation|MLE|-| 极大似然估计／极大似然法
 Maximum margin |-| 	最大间隔
 Maximum weighted spanning tree |-| 	最大带权生成树
 Max-Pooling	 |-| 最大池化
@@ -340,7 +341,7 @@ Meta-learner |-| 	元学习器
 Metric learning |-| 	度量学习
 Micro-P	 |-| 微查准率
 Micro-R	 |-| 微查全率
-Minimal Description Length/MDL |-| 	最小描述长度
+Minimal Description Length|MDL| 	最小描述长度
 Minimax game	 |-| 极小极大博弈
 Misclassification cost |-| 	误分类成本
 Mixture of experts	 |-| 混合专家
@@ -349,7 +350,7 @@ Moral graph |-| 	道德图／端正图
 Multi-class classification |-| 	多分类
 Multi-document summarization |-| 	多文档摘要
 Multi-layer feedforward neural networks |-| 	多层前馈神经网络
-Multilayer Perceptron/MLP |-| 	多层感知器
+Multilayer Perceptron|MLP| 	多层感知器
 Multimodal learning	 |-| 多模态学习
 Multiple Dimensional Scaling |-| 	多维缩放
 Multiple linear regression |-| 	多元线性回归
@@ -415,7 +416,7 @@ Parameter	 |-| 参数
 Parameter estimation	 |-| 参数估计
 Parameter tuning	 |-| 调参
 Parse tree	 |-| 解析树
-Particle Swarm Optimization/PSO |-| 	粒子群优化算法
+Particle Swarm Optimization|PSO| 	粒子群优化算法
 Part-of-speech tagging	 |-| 词性标注
 Perceptron	 |-| 感知机
 Performance measure	 |-| 性能度量
@@ -431,11 +432,11 @@ Post-pruning	 |-| 后剪枝
 potential function |-| 	势函数  
 Precision	 |-| 查准率／准确率
 Prepruning |-| 	预剪枝
-Principal component analysis/PCA	 |-| 主成分分析
+Principal component analysis|PCA| 主成分分析
 Principle of multiple explanations	 |-| 多释原则
 Prior	 |-| 先验  
 Probability Graphical Model |-| 	概率图模型  
-Proximal Gradient Descent/PGD	 |-| 近端梯度下降  
+Proximal Gradient Descent|PGD| 近端梯度下降  
 Pruning	 |-| 剪枝  
 Pseudo-label |-| 	伪标记  
 
@@ -453,23 +454,23 @@ Radial Basis Function／RBF |-| 	径向基函数
 Random Forest Algorithm	 |-| 随机森林算法  
 Random walk	 |-| 随机漫步  
 Recall |-| 	查全率／召回率  
-Receiver Operating Characteristic/ROC |-| 	受试者工作特征
-Rectified Linear Unit/ReLU |-| 	线性修正单元
+Receiver Operating Characteristic|ROC| 	受试者工作特征
+Rectified Linear Unit|ReLU| 	线性修正单元
 Recurrent Neural Network |-| 	循环神经网络
 Recursive neural network |-| 递归神经网络
 Reference model	|-|参考模型
 Regression |-| 	回归
 Regularization	 |-| 正则化
-Reinforcement learning/RL	 |-| 强化学习
+Reinforcement learning|RL| 强化学习
 Representation learning	 |-| 表征学习
 Representer theorem	 |-| 表示定理
-reproducing kernel Hilbert space/RKHS |-| 	再生核希尔伯特空间
+reproducing kernel Hilbert space|RKHS| 	再生核希尔伯特空间
 Re-sampling |-| 	重采样法
 Rescaling	 |-| 再缩放
 Residual Mapping	 |-| 残差映射
 Residual Network |-| 	残差网络
-Restricted Boltzmann Machine/RBM |-| 	受限玻尔兹曼机
-Restricted Isometry Property/RIP |-| 	限定等距性
+Restricted Boltzmann Machine|RBM| 	受限玻尔兹曼机
+Restricted Isometry Property|RIP| 	限定等距性
 Re-weighting	 |-| 重赋权法
 Robustness |-| 	稳健性/鲁棒性
 Root node	 |-| 根结点
@@ -513,11 +514,11 @@ Status feature function |-| 	状态特征函
 Stochastic gradient descent |-| 	随机梯度下降
 Stratified sampling	 |-| 分层采样
 Structural risk	 |-| 结构风险
-Structural risk minimization/SRM	 |-| 结构风险最小化
+Structural risk minimization|SRM| 结构风险最小化
 Subspace	 |-| 子空间
 Supervised learning	 |-| 监督学习／有导师学习
 support vector expansion	 |-| 支持向量展式
-Support Vector Machine/SVM	 |-| 支持向量机
+Support Vector Machine|SVM| 支持向量机
 Surrogat loss	 |-| 替代损失
 Surrogate function |-| 	替代函数
 Symbolic learning	 |-| 符号学习
@@ -527,9 +528,9 @@ Synset	 |-| 同义词集
 ## Letter T
  Words  | Acronym  | Desciption  
 ---|---|---  
-T-Distribution Stochastic Neighbour Embedding/t-SNE	 |-| T – 分布随机近邻嵌入
+T-Distribution Stochastic Neighbour Embedding|t-SNE| T–分布随机近邻嵌入
 Tensor |-| 	张量
-Tensor Processing Units/TPU	 |-| 张量处理单元
+Tensor Processing Units|TPU| 张量处理单元
 The least square method |-| 	最小二乘法
 Threshold	 |-| 阈值
 Threshold logic unit |-| 	阈值逻辑单元
@@ -544,7 +545,7 @@ Treebank	 |-| 树库
 Tria-by-error	 |-| 试错法
 True negative	 |-| 真负类
 True positive	 |-| 真正类
-True Positive Rate/TPR |-| 	真正例率
+True Positive Rate|TPR| 	真正例率
 Turing Machine |-| 	图灵机
 Twice-learning	 |-| 二次学习
 
@@ -573,7 +574,7 @@ Von Neumann architecture |-| 冯 · 诺伊曼架构
 ## Letter W
  Words  | Acronym  | Desciption  
 ---|---|---  
-Wasserstein GAN/WGAN|-|Wasserstein生成对抗网络
+Wasserstein GAN|WGAN|Wasserstein生成对抗网络
 Weak learner |-| 弱学习器
 Weight	 |-| 权重
 Weight sharing |-| 	权共享
