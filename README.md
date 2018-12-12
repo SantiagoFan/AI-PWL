@@ -3,20 +3,20 @@ A professional words list of machine learning &amp; deep learning
 人工智能领域 专业词汇速查表
 
 
-Letter A
-Full Name |  Acronym  | Desciption
----|---|---
--|Accumulated error backpropagation	|累积误差逆传播
--|Activation Function  | 激活函数
--|Adaptive Resonance Theory/ART  | 自适应谐振理论
--|Addictive model  | 加性学习
--|Adversarial Networks  | 对抗网络
--|Affine Layer  | 仿射层
--|Affinity matrix  | 亲和矩阵
--|Agent  | 代理 / 智能体
--|Algorithm  | 算法
--|Alpha-beta pruning  | α-β剪枝
--|Anomaly detection  | 异常检测
+## Letter A
+Full Name |  Acronym  | Desciption  
+---|---|---  
+-|Accumulated error backpropagation	|累积误差逆传播  
+-|Activation Function  | 激活函数  
+-|Adaptive Resonance Theory/ART  | 自适应谐振理论  
+-|Addictive model  | 加性学习  
+-|Adversarial Networks  | 对抗网络  
+-|Affine Layer  | 仿射层  
+-|Affinity matrix  | 亲和矩阵  
+-|Agent  | 代理 / 智能体  
+-|Algorithm  | 算法  
+-|Alpha-beta pruning  | α-β剪枝  
+-|Anomaly detection  | 异常检测  
 -|Approximation  | 近似
 -|Area Under ROC Curve／AUC	Roc  |  曲线下面积
 -|Artificial General Intelligence/AGI	  | 通用人工智能
@@ -393,35 +393,35 @@ Perceptron	感知机
 Performance measure	性能度量
 Plug and Play Generative Network	即插即用生成网络
 Plurality voting	相对多数投票法
-Polarity detection	极性检测
-Polynomial kernel function	多项式核函数
-Pooling	池化
-Positive class	正类
-Positive definite matrix	正定矩阵
-Post-hoc test	后续检验
-Post-pruning	后剪枝
-potential function	势函数
+Polarity detection	极性检测  
+Polynomial kernel function	多项式核函数  
+Pooling	池化  
+Positive class	正类  
+Positive definite matrix	正定矩阵  
+Post-hoc test	后续检验  
+Post-pruning	后剪枝  
+potential function	势函数  
 Precision	查准率／准确率
 Prepruning	预剪枝
 Principal component analysis/PCA	主成分分析
 Principle of multiple explanations	多释原则
-Prior	先验
-Probability Graphical Model	概率图模型
-Proximal Gradient Descent/PGD	近端梯度下降
-Pruning	剪枝
-Pseudo-label	伪标记
+Prior	先验  
+Probability Graphical Model	概率图模型  
+Proximal Gradient Descent/PGD	近端梯度下降  
+Pruning	剪枝  
+Pseudo-label	伪标记  
 Letter Q
 
-Quantized Neural Network	量子化神经网络
-Quantum computer	量子计算机
-Quantum Computing	量子计算
-Quasi Newton method	拟牛顿法
+Quantized Neural Network	量子化神经网络  
+Quantum computer	量子计算机  
+Quantum Computing	量子计算  
+Quasi Newton method	拟牛顿法  
 Letter R
 
-Radial Basis Function／RBF	径向基函数
-Random Forest Algorithm	随机森林算法
-Random walk	随机漫步
-Recall	查全率／召回率
+Radial Basis Function／RBF	径向基函数  
+Random Forest Algorithm	随机森林算法  
+Random walk	随机漫步  
+Recall	查全率／召回率  
 Receiver Operating Characteristic/ROC	受试者工作特征
 Rectified Linear Unit/ReLU	线性修正单元
 Recurrent Neural Network	循环神经网络
