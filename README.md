@@ -7,4 +7,5 @@ A professional words list of machine learning &amp; deep learning
   ----|----|---
   AI|Artificial Intelligence|人工智能  
   ML|Machine Learning|机器学习
+  KNN
    
