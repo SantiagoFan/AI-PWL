@@ -420,7 +420,7 @@ Particle Swarm Optimization|PSO| 	粒子群优化算法
 Part-of-speech tagging	 |-| 词性标注
 Perceptron	 |-| 感知机
 Performance measure	 |-| 性能度量
-Plug and Play Generative Network |-| 	即插即用生成网络
+Plug and Play Generative Network |PPGN| 	即插即用生成网络
 Plurality voting |-| 	相对多数投票法
 Polarity detection |-| 	极性检测  
 Polynomial kernel function |-| 	多项式核函数  
